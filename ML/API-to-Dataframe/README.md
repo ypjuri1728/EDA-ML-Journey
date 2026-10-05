@@ -21,4 +21,4 @@ This folder contains my practice of working with **APIs** and converting API dat
 
 To learn how to collect data from an API and work with it using Pandas DataFrames.
 
-###RapidAPI: https://rapidapi.com/collection/list-of-free-apis
+### RapidAPI: https://rapidapi.com/collection/list-of-free-apis
